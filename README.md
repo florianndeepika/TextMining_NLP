@@ -1,4 +1,5 @@
 # TextMining_NLP
+Sentiment Analysis on Volkswagen Diesel Emission scandal and Crisis Management using BERT and Word Embedding
 
 ## Executive Summary : 
   Volkswagen (VW), world's most prominent auto manufacturer caught public attention in 2015 for an emission scandal called Dieselgate. There were multiple headline news came to limelight from 2015 to 2019. People were rambling on throwing out views about the scandal on the social media. The scandal and the series of events followed after the crisis made VW to give up their remarkable marketing slogan ‘Das Auto’. The purpose of this study is to analyze the trend in public opinion during this crisis. Automobile industry crisis and environment are the two main themes taken for this
@@ -8,7 +9,7 @@ research with sentiment analysis using Rapidminer and BERT model.
 applied and comparison of the model was performed. It was observed that training word embedding with high dimension results in high accuracy of similar word representation. Finally, the study concludes that the goodwillpackage alone was not sufficient to manage the crisis. Instead, VW could have taken additional measures by addressing customer expectations at the right time.
 
 ## Analysis:
-The second part of the study focuses on the crisis management strategy [14] adopted by Volkswagen to handle the most complicated emission scandal of their entire history. The aim of this part is to examine whether goodwill package offered by the organization to gain back their reputation received a positive or negative feedback from public. Two different perspectives were taken on the data. Firstly, sentiment was extracted from tweets using BERT [15]. Secondly, word embedding was performed with 3 techniques to understand word representation in a vector space [22].
+The study focuses on the crisis management strategy [14] adopted by Volkswagen to handle the most complicated emission scandal of their entire history. The aim of this part is to examine whether goodwill package offered by the organization to gain back their reputation received a positive or negative feedback from public. Two different perspectives were taken on the data. Firstly, sentiment was extracted from tweets using BERT [15]. Secondly, word embedding was performed with 3 techniques to understand word representation in a vector space [22].
 
 **Sample, data, corpus**
 To examine the effectiveness of goodwillpackage and perception of people requires sufficient data. Twitter data with 3253 tweets were collected under the hashtags #goodwillpackage and #vwcares. Worldwide data was taken which was limited to English tweets.
