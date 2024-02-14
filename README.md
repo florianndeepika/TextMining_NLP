@@ -1,5 +1,4 @@
-# TextMining_NLP
-Sentiment Analysis on Volkswagen Diesel Emission scandal and Crisis Management using BERT and Word Embedding
+# Sentiment Analysis on Volkswagen Diesel Emission scandal and Crisis Management using BERT and Word Embedding
 
 ## Executive Summary : 
   Volkswagen (VW), world's most prominent auto manufacturer caught public attention in 2015 for an emission scandal called Dieselgate. There were multiple headline news came to limelight from 2015 to 2019. People were rambling on throwing out views about the scandal on the social media. The scandal and the series of events followed after the crisis made VW to give up their remarkable marketing slogan ‘Das Auto’. The purpose of this study is to analyze the trend in public opinion during this crisis. Automobile industry crisis and environment are the two main themes taken for this
