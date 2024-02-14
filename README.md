@@ -76,36 +76,3 @@ maintaining the e-reputation during negative event
 
 **Limitation**
 Small corpus is the major limitation for this study. Tweets restricted only to English language was considered for the sentiment analysis which might not produce the overall picture of the scandal.
-
-## References (Bibliography)
-[1] Git Hub link for Sentiment analysis BERT and word embeddings. 2022. “https://github.com/florianndeepika/TextMining_NLP/blob/main/Dieselgate_CrisisManagement_SentimentAnalysis _BERT_WordEmbedding.ipynb”
-[2] Distribution of carbon dioxide emissions produced by the transportation sector worldwide in 2020, by subsector. 2022. “https://www.statista.com/statistics/1185535/transport-carbon-dioxide-emissions-breakdown/”
-[3] Crisis management and social media: An analysis of the Volkswagen’s web reputation on Twitter after the explosion of the “Dieselgate” scandal. 2016. “http://dspace.unive.it/bitstream/handle/10579/9064/837331- 1198265.pdf?sequence=2”
-[4] 2016The Largest Car Companies in the World (New). 2022. “https://www.carlogos.org/reviews/largest-car- companies.html”
-[5] Top 10 Social Networking Sites by Market Share Statistics [2022]. “https://www.dreamgrow.com/top-10-social- networking-sites-market-share-of-visits/”
-[6] Volkswagen says diesel scandal has cost it 31.3 billion euros. 2020. “https://www.reuters.com/article/us- volkswagen-results-diesel-idUSKBN2141JB”
-[7] Uma Vijayasundaram, Vishal Vyas, An Extensive study of Sentiment Analysis tools and Binary Classification of tweets using Rapid Miner. 2018. “https://www.researchgate.net/publication/322351027_An_Extensive_study_of_Sentiment_Analysis_tools_and_Bin ary_Classification_of_tweets_using_Rapid_Miner”
-[8] Shilpa Singh Hanswal , Astha Pareek , Amita Sharma , Twitter Sentiment Analysis using Rapid Miner Tool. 2019. "https://www.ijcaonline.org/archives/volume177/number16/hanswal-2019-ijca-919604.pdf"
-[9] Pragya Tripathi; Santosh Kr. Vishwakarma; Ajay Lala, Sentiment Analysis of English Tweets Using Rapid Miner. 2015 "https://ieeexplore.ieee.org/document/7546179"
-[10] Murugan Anandarajan, Chelsey Hill & Thomas Nolan . Learning-Based Sentiment Analysis Using RapidMiner. 2018. “https://link.springer.com/chapter/10.1007/978-3-319-95663-3_15”
-[11] Vanitha SWAMINATHAN, Suyun MAH, What 100,000 tweets about the Volkswagen scandal tell us about angry customers. 2016. “https://ink.library.smu.edu.sg/lkcsb_research/6892/”
-[12] Yassin Denis Bouzzine, Hendrik Steen, Mario Trautberg, Listening to birdsong: Impression management of VW on Twitter during Dieselgate. 2020. “https://www.researchgate.net/publication/349118778_Listening_to_birdsong_Impression_management_of_VW_o n_Twitter_during_Dieselgate”
-[13] Qi An, Morten Grimmig Christensen, Annith Ramachandran. Volkswagen’s Diesel Emission Scandal: Analysis of Facebook Engagement and Financial Outcomes. 2018. "https://www.researchgate.net/publication/325888307_Volkswagen%27s_Diesel_Emission_Scandal_Analysis_of_Fa cebook_Engagement_and_Financial_Outcomes"
-[14] Stefan Stieglitz, Milad Mirbabaie, Tobias Kroll Crisis Communication on Twitter during a Global Crisis of Volkswagen – The Case of “Dieselgate”. 2018. "https://www.researchgate.net/publication/320734184_Crisis_Communication_on_Twitter_during_a_Global_Crisis _of_Volkswagen_-_The_Case_of_Dieselgate"
-[15] Himanshu Batra, Narinder Singh Punn, Sanjay Kumar Sonbhadra, and Sonali Agarwal, BERT-Based Sentiment Analysis: A Software Engineering Perspective⋆ . 2021. "https://arxiv.org/pdf/2106.02581.pdf"
-[16] Tomas Mikolov , Kai Chen , Greg Corrado , Jeffrey Dean , Efficient Estimation of Word Representations in Vector Space.2013. "https://arxiv.org/pdf/1301.3781.pdf"
-[17] Vadim Moshkin, Andrey Konstantinov, Nadejda Yarushkina, "Application of the BERT Language Model for Sentiment Analysis of Social Network Posts.2020. “https://www.researchgate.net/publication/345340071_Application_of_the_BERT_Language_Model_for_Sentiment _Analysis_of_Social_Network_Posts”
-                        
-[18] Sentiment Analysis with BERT. 2020. https://colab.research.google.com/drive/1PHv- IRLPCtv7oTcIGbsgZHqrB5LPvB7S
-[19] Amit Mandelbaum Adi Shalev. Word Embeddings and Their Use In Sentence Classification Tasks. 2016. "https://arxiv.org/pdf/1610.08229.pdf"
-[20] Congcong Wang, Paul Nulty. A Comparative Study on Word Embeddings in Deep Learning for Text Classification. 2020. "https://www.researchgate.net/publication/348946675_A_Comparative_Study_on_Word_Embeddings_in_Deep_Le arning_for_Text_Classification"
-[21] Word Embeddings. "https://paperswithcode.com/task/word-embeddings"
-[22] Qilu Jiao; Shunyao Zhang, A Brief Survey of Word Embedding and Its Recent Development.2021 "https://ieeexplore.ieee.org/document/9390956"
-[23] Ruggero Petrolito•, Felice Dell’Orletta. Word Embeddings in Sentiment Analysis. “http://ceur-ws.org/Vol- 2253/paper51.pdf”
-[24] B. Oscar Deho; A. William Agangiba; L. Felix Aryeh; A. Jeffery Ansah. Sentiment Analysis with Word Embedding. 2018 "https://ieeexplore.ieee.org/document/8506717"
-[25] Lu ̈tfi Kerem S ̧enel, Student Member, IEEE, ̇Ihsan Utlu, Veysel Yu ̈cesoy, Student Member, IEEE, Aykut Koc ,̧ Member, IEEE, and Tolga C ̧ukur, Senior Member, IEEE, . Semantic Structure and Interpretability of Word Embeddings "https://arxiv.org/pdf/1711.00331.pdf"
-[26] Bert Carremans , Word embeddings for sentiment analysis. 2018. “https://towardsdatascience.com/word- embeddings-for-sentiment-analysis-65f42ea5d26e”
-[27] nicknochnack, Sentiment analysis using BERT, Latest commit on 27 May, “https://github.com/nicknochnack/BERTSentiment/blob/main/Sentiment.ipynb”
-[28] Bert Carremans , Using Word Embeddings for Sentiment Analysis.ipynb. Latest commit d185ee5 on 15 Mar 2018. “https://github.com/bertcarremans/TwitterUSAirlineSentiment/blob/master/source/Using%20Word%20Embeddings %20for%20Sentiment%20Analysis.ipynb”
-[29] Mike Thelwall, Journal of the American Society for Information Science and Technology. 2010. “https://onlinelibrary.wiley.com/doi/10.1002/asi.21416”
-[30] Environmental defence. Volkwagen Emission scandal Timeline. “https://environmentaldefence.ca/volkswagen- dieselgate-timeline/”
